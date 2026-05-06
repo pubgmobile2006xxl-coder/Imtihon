@@ -1,4 +1,12 @@
 import Card from "./Companents/Card/Card"
-function Card (){
-  return
+import "./App.css"
+
+function App() {
+    return (
+        <>
+        <Card></Card>
+        </>
+    )
 }
+
+export default App
